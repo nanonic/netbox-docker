@@ -3,6 +3,7 @@
 .python-version
 docker-compose.override.yml
 *.pem
+*.swp
 configuration/*
 !configuration/configuration.py
 !configuration/extra.py
